@@ -1,4 +1,4 @@
-# UC_ToolTable
+# UC_TurnTable
 A UCCNC plugin for Lathe tool offseting and tool touchoff.  
 
 This is a demo of a UCCNC plugin.  It shows how to do things such as implement jogging, indicate probe touch, work with DROs, change steps/unit, etc.
